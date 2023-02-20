@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UIUC/415/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"D:/UIUC/415/UnrealLearningKit/Content/LearningKit_Games/Maps/Untitled.umap",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/BP_Controller.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/BP_Pursuer.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/EAIstate.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/HealthBarHUD.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/BP_Mortar.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/BP_Projectile.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/Damage.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/Trap.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/BP_TrapTrriger.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/BP_TrapLauncher.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/BP_Restart.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/TriggerLevel.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/Hour_of_Code/Blueprints/BP_Key_activity_4_end.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/Master_Pickup_BP.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/BP_HealthPack.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/BP_HealthP.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/BP_Collectable.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/BP_Gate.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/BP_Win.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/Master_Pickup_BP.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/BP_Custom.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/AI/BP_Projectiles.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"D:/UIUC/415/UnrealLearningKit/Content/LevelDesign/BPs/HealthBar.uasset"
+			]
+		}
+	]
+}
